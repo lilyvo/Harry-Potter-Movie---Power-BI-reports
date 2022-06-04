@@ -11,3 +11,5 @@ How have the characters with the most lines of dialogue varied across movies?
 What is the most popular location in each film?
 
 Which spells are used the most across the franchise? Do characters have a favorite spell?
+
+Dataset from https://www.mavenanalytics.io/data-playground
