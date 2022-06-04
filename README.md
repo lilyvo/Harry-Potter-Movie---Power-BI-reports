@@ -3,7 +3,9 @@ Harry Potter Movie Scripts
 Character dialogues for all 8 movies in the Harry Potter franchise, including additional information about each movie, its chapters, characters, places, and spells.
 
 **Revenue Report**
-- Total Revenue, Total Cost, Net Revenue and Margin is Net Revenue divided by 
+- Total Revenue, Total Cost, Net Revenue and Margin is Net Revenue divided by Cost
+
+
 **Dialogues Reports
 
 Which movie has the most lines of dialog? Is it also the longest movie?
